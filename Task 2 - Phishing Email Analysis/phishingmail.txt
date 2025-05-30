@@ -1,0 +1,17 @@
+From: security-alert@paypai.com
+Subject: [URGENT] Your PayPal Account Is Suspended!
+
+Dear Customer,
+
+We have detected unusual activity on your account. For your security, your account has been temporarily suspended.
+
+Please verify your identity immediately by logging into your account using the secure link below:
+
+👉 http://paypal-login-secure.com
+
+Failure to do so within 24 hours will result in permanent account closure.
+
+Thank you for choosing PayPal.
+
+Sincerely,  
+PayPal Support Team
