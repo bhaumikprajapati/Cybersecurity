@@ -1,0 +1,47 @@
+Task 4 - Basic Firewall Rule Configuration  
+Cybersecurity Internship - Elevate Labs
+
+-----------------------------------------------------------
+🔹 Task Objective:
+To configure and test basic firewall rules on Windows using Windows Defender Firewall and document the steps, screenshots, and outcome.
+
+-----------------------------------------------------------
+🧰 Tools Used:
+- Windows Defender Firewall with Advanced Security
+- Windows 11 (Local machine)
+- GUI-based rule creation and deletion
+
+-----------------------------------------------------------
+⚙️ Steps Performed:
+
+1. Opened Windows Defender Firewall using the `wf.msc` command.
+2. Created a new **Inbound Rule** to block TCP traffic on **Port 23 (Telnet)**.
+3. Created another **Inbound Rule** to allow TCP traffic on **Port 22 (SSH)**.
+4. Verified both rules were correctly listed in the firewall rule list.
+5. Took relevant screenshots of the firewall interface and rule configurations.
+6. Deleted both rules to restore the firewall to its original state.
+7. Ensured system security remained unaffected by the test rules.
+
+-----------------------------------------------------------
+📊 Rule Summary:
+- Port Blocked: 23 (Telnet)
+- Port Allowed: 22 (SSH)
+- Action Taken: Rules created → tested → deleted
+- Firewall Status: Enabled and working as expected
+
+-----------------------------------------------------------
+📁 Files Submitted:
+- task4.txt (documentation of the task)
+- screenshots/
+  - Firewall Interface.png
+  - Firewall Rule.png
+
+-----------------------------------------------------------
+📝 Notes:
+- Blocking port 23 is a standard security best practice due to Telnet's insecure nature.
+- SSH on port 22 was allowed only for testing purposes (no SSH service active locally).
+- No personal or sensitive information was exposed in the screenshots.
+- All configurations were reverted post testing to maintain original system settings.
+
+-----------------------------------------------------------
+✅ Task Status: COMPLETED
