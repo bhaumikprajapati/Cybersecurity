@@ -1,0 +1,34 @@
+Internship Task 5 – Network Traffic Capture & Protocol Analysis using Wireshark
+
+Objective:
+To capture and analyze live network traffic using Wireshark and identify at least three different network protocols.
+
+Tools Used:
+- Wireshark (for packet capturing)
+- Web browser (Chrome) to generate traffic
+
+Steps Followed:
+1. Installed Wireshark and launched it with administrator privileges.
+2. Started packet capture on the active Wi-Fi network interface.
+3. Opened and refreshed multiple safe websites:
+   - https://example.com
+   - https://www.wikipedia.org
+   - https://www.python.org
+4. (Accidentally also visited https://chat.openai.com during capture; no sensitive content was exposed due to HTTPS encryption.)
+5. Applied protocol filters in Wireshark to analyze the following:
+   - `dns` to view domain name resolutions
+   - `tcp` to analyze connection setup and acknowledgment
+   - `http` to view non-encrypted web traffic
+6. Took screenshots of each protocol (with IP and MAC addresses blurred for privacy).
+
+Protocols Identified:
+- DNS (Domain Name System): Translates website names into IP addresses.
+- TCP (Transmission Control Protocol): Ensures reliable data transfer with handshakes.
+- HTTP (HyperText Transfer Protocol): Used for retrieving non-secure web content.
+
+Privacy Measures:
+- All screenshots were reviewed and edited to hide private IP addresses and MAC addresses.
+- The .pcapng file was not uploaded due to presence of encrypted traffic involving ChatGPT, to avoid exposing domain-level usage.
+
+Outcome:
+This task helped me gain hands-on experience with Wireshark, protocol-level analysis, and network troubleshooting. It also strengthened my awareness of privacy and responsible data handling during packet captures.
