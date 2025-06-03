@@ -1,0 +1,53 @@
+# Cybersecurity Internship – Task 6: Password Strength Evaluation
+
+## 🎯 Objective:
+The goal of this task is to understand what makes a password strong, test various passwords using online tools, analyze the results, and learn about common password attacks and best practices.
+
+---
+
+## 🧪 Passwords Tested and Results:
+
+| Password                | Strength     | Time to Crack | Tool Used           |
+|-------------------------|--------------|----------------|----------------------|
+| hiii123                 | Very Weak     | 0.17 seconds   | Password Monster     |
+| Hello1234               | Very Weak     | 0.02 seconds   | Password Monster     |
+| HeLlo#2025!             | Medium        | 10 hours       | Password Monster     |
+| M@nG0$Tea#74!           | Very Strong   | 81 years       | Password Monster     |
+| Time4Tea@Sunset!Rocks   | Very Strong   | 322 years      | Password Monster     |
+
+---
+
+## 📷 Screenshot Evidence:
+Screenshots of all password strength tests have been taken and saved in the `screenshots/` folder.
+
+---
+
+## 🔐 Best Practices for Strong Passwords:
+
+- Use **at least 12–16 characters**.
+- Combine **uppercase, lowercase, digits, and special symbols**.
+- Avoid **dictionary words**, names, and common sequences.
+- Create **unpredictable combinations** (e.g., `M@nG0$Tea#74!`).
+- Prefer **passphrases** (e.g., `Time4Tea@Sunset!Rocks`).
+- Never **reuse passwords** across websites.
+- Use a **password manager** to store and generate passwords.
+- Always enable **Multi-Factor Authentication (MFA)**.
+
+---
+
+## ⚠️ Common Password Attacks:
+
+1. **Brute Force Attack:** Tries all combinations to guess the password.
+2. **Dictionary Attack:** Uses a list of common words/passwords to guess.
+3. **Credential Stuffing:** Reuses leaked credentials on other platforms.
+4. **Phishing:** Tricks users into revealing passwords via fake websites.
+
+---
+
+## 🧠 Key Learnings from This Task:
+
+- Short and simple passwords (like `hiii123`) are cracked in seconds.
+- Adding symbols and increasing length (e.g., `M@nG0$Tea#74!`) increases security.
+- Passphrases are strong and easy to remember.
+- Password evaluation tools give good insight into password strength.
+- Understanding password attacks helps create better defenses.
