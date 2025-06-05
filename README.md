@@ -12,7 +12,7 @@ Each task is organized in a separate folder with its own README, resources, and 
 - **Name**: Bhaumik Prajapati
 - **Internship Domain**: Cybersecurity
 - **Company**: Elevate Labs
-- **Period**: May 2025
+- **Period**: May - June 2025
 
 
 ---
