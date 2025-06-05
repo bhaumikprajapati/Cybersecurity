@@ -1,0 +1,39 @@
+# Cyber Security Internship - Task 7
+## 🔍 Task: Identify and Remove Suspicious Browser Extensions
+
+### ✅ Objective:
+To review all installed browser extensions and remove any suspicious or unused ones to ensure better browser security.
+
+### 🌐 Browser Used:
+Google Chrome
+
+---
+
+### 📋 Reviewed Extensions:
+
+| Extension Name        | Status      | Action Taken       | Reason                                                                 |
+|-----------------------|-------------|--------------------|------------------------------------------------------------------------|
+| AdBlock               | ✅ Safe     | Kept               | Trusted ad-blocker from a known source.                               |
+| Google Docs Offline   | ⚠️ Removed  | Unused, Removed    | Not used recently; removed to minimize unnecessary permissions.       |
+
+---
+
+### 🧠 Learnings:
+
+- Extensions should be reviewed regularly to avoid privacy risks.
+- Some extensions may request too many permissions or track user behavior.
+- Only keep extensions that are needed and from trusted sources.
+- Removing unused extensions can improve browser performance and reduce risk.
+
+---
+
+### 📸 Screenshots:
+
+- Before removing extension: `before_removal.png`
+- After removing extension: `after_removal.png`
+
+---
+
+### ✅ Status:
+Task Completed Successfully ✅
+
