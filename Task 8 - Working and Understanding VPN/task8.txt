@@ -1,0 +1,39 @@
+Cyber Security Internship - Elevate Labs
+Task 8: Working and Understanding VPN
+
+✅ VPN Used: ProtonVPN (Free Tier)
+✅ System: Windows 11
+✅ Server Connected: Netherlands - NL-FREE#214
+✅ Protocol: WireGuard (UDP)
+
+🔹 Steps Followed:
+1. Signed up for ProtonVPN Free Plan.
+2. Installed and launched ProtonVPN client.
+3. Connected to a Netherlands server using WireGuard protocol.
+4. Verified IP address change using whatismyipaddress.com.
+   - Original location: Delhi, India
+   - VPN location: Naaldwijk, Netherlands
+5. Browsed HTTPS websites to confirm encrypted traffic.
+6. Tested internet speed on fast.com before and after VPN.
+7. Observed minor drop in speed, but increased privacy.
+
+📷 Screenshots:
+- before_vpn.png (original IP blurred)
+- after_vpn.png (VPN IP - Netherlands)
+- vpn_connection.png (VPN app connected screen)
+
+📌 VPN Benefits:
+- Encrypts all internet traffic
+- Hides your real IP address
+- Secures data over public Wi-Fi
+- Prevents ISP and third-party tracking
+
+⚠️ Limitations:
+- Slightly slower internet speed
+- Not 100% anonymous (VPN providers may log activity)
+- Some websites block VPN access
+
+🔐 Protocol Used – WireGuard (UDP):
+WireGuard is a modern, fast, and secure VPN protocol. It uses advanced cryptography (like ChaCha20 and Curve25519) and has a lightweight codebase. WireGuard is faster and simpler than older protocols like OpenVPN, making it ideal for performance and privacy.
+
+🔑 Keywords: VPN, encryption, privacy, IP masking, tunneling protocols, WireGuard, network security
