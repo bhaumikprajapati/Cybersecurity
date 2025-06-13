@@ -1,0 +1,14 @@
+Jun 10 13:56:01 server sshd[2048]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Jun 10 13:56:01 hostname sshd[1111]: Failed password for invalid user hacker from 192.168.1.101 port 22 ssh2
+Jun 10 13:56:10 hostname sshd[1235]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Jun 10 13:56:20 hostname sshd[1236]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Jun 10 13:56:30 hostname sshd[1237]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Jun 10 13:56:40 hostname sshd[1238]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Jun 10 13:56:50 hostname sshd[1239]: Failed password for invalid user admin from 192.168.1.15 port 22 ssh2
+Jun 10 13:57:15 server sshd[2048]: Accepted password for valid user root from 192.168.1.16 port 22 ssh2
+Jun 10 13:56:01 hostname sshd[1234]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
+Jun 10 13:56:10 hostname sshd[1235]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
+Jun 10 13:56:20 hostname sshd[1236]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
+Jun 10 13:56:30 hostname sshd[1237]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
+Jun 10 13:56:40 hostname sshd[1238]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
+Jun 10 13:56:50 hostname sshd[1239]: Failed password for invalid user admin from 192.168.1.101 port 22 ssh2
