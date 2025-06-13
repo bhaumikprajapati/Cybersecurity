@@ -87,7 +87,6 @@ python main.py
 
 - **Internship**: Elevate Labs – Cybersecurity Domain  
 - **Intern**: Bhaumik Prajapati  
-- **Course**: B.Sc. (CA & IT), Ganpat University  
 
 ---
 
